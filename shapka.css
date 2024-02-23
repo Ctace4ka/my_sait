@@ -1,0 +1,19 @@
+#header{
+  width: 900px;   
+  height: 200px;   
+  background-color: #9fdcaa; 
+  margin-bottom: 10px;  
+  background-image: url(my_photo.jpg)
+}
+h1{
+  color: #ffee00; 
+  font: 40px Georgia; 
+  margin-left: 300px; 
+}
+.descript{
+  width: 300px;  
+  color: #ffee00; 
+  font-style: italic;  
+  margin: 70px 0 0 30px; 
+  font-size:22px; 
+}
